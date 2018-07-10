@@ -1,3 +1,6 @@
 [submodule "record"]
 	path = record
 	url = https://github.com/xingyulc/record.git
+[submodule "subRecord"]
+	path = subRecord
+	url = https://github.com/xingyulc/subRecord.git
